@@ -1,0 +1,24 @@
+# Datasets
+datasets/
+*.npy
+*.npz
+
+# Model checkpoints
+saved_models/
+*.pt
+*.pth
+*.ckpt
+
+# Logs
+log/
+logs/
+*.log
+
+# Python temporary files
+__pycache__/
+*.py[cod]
+
+# Environment files
+.venv/
+venv/
+.env
