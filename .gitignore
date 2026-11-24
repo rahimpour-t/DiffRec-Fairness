@@ -22,3 +22,7 @@ __pycache__/
 .venv/
 venv/
 .env
+
+# Raw MovieLens dataset files
+DiffRec/ml-1m/
+DiffRec/ml-1m.zip
